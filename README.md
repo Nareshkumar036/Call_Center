@@ -27,7 +27,6 @@ This dashboard visualizes call center performance metrics to help assess service
 
 ![Call Center Dashboard](Screenshot 2025-05-10 211145.png)
 
-> Don’t forget to update the image path after uploading to GitHub.
 
 ## 📬 Feedback
 
